@@ -17,6 +17,11 @@ class AppointmentsController < ApplicationController
     @appointment = Appointment.new
   end
 
+  def index1
+
+  end
+
+
   # GET /appointments/1/edit
   def edit
   end
